@@ -51,3 +51,5 @@
 * [第2018-08-25期 CSS角度的N种单位你可知道](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-25.md)
 
 * [第2018-08-26期 你会用CSS简写属性吗？](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-26.md)
+
+* [第2018-08-27期 你可能没用过的JSON.stringify() replacer](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-27.md)
