@@ -53,3 +53,5 @@
 * [第2018-08-26期 你会用CSS简写属性吗？](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-26.md)
 
 * [第2018-08-27期 你可能没用过的JSON.stringify() replacer](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-27.md)
+
+* [第2018-08-28期 你会在网页上写数学公式吗？](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-28.md)
