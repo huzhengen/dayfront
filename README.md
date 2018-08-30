@@ -57,3 +57,5 @@
 * [第2018-08-28期 你会在网页上写数学公式吗？](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-28.md)
 
 * [第2018-08-29期 你真的了解data-*吗](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-29.md)
+
+* [第2018-08-30期 有必要了解的AMP技术](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-30.md)
