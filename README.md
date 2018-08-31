@@ -59,3 +59,5 @@
 * [第2018-08-29期 你真的了解data-*吗](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-29.md)
 
 * [第2018-08-30期 有必要了解的AMP技术](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-30.md)
+
+* [第2018-08-31期 彻底弄懂defineProperty](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-31.md)
