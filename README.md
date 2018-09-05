@@ -10,6 +10,8 @@
 
 * [第2018-09-04期 CSS权重计算](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-04.md)
 
+* [第2018-09-05期 零延迟并非零延迟](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-05.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
