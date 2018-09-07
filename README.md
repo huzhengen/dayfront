@@ -14,6 +14,8 @@
 
 * [第2018-09-06期 探寻requestAnimationFrame](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-06.md)
 
+* [第2018-09-07期 是时候记住高阶函数这个概念了](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-07.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
