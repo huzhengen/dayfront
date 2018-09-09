@@ -18,6 +18,8 @@
 
 * [第2018-09-08期 清空数组的N种方法](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-08.md)
 
+* [第2018-09-09期 数组解构你用了吗](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-09.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
