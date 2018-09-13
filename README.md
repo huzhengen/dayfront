@@ -26,6 +26,8 @@
 
 * [第2018-09-12期 什么，你没有收到我的数据？](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-12.md)
 
+* [第2018-09-13期 promise 快闪](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-13.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
