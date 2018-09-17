@@ -34,6 +34,8 @@
 
 * [第2018-09-16期 ~^版本别搞混了](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-16.md)
 
+* [第2018-09-17期 Docker了解一下](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-17.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
