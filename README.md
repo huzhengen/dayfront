@@ -36,6 +36,8 @@
 
 * [第2018-09-17期 Docker了解一下](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-17.md)
 
+* [第2018-09-18期 CSS变量](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-18.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
