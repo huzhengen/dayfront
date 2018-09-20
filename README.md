@@ -40,6 +40,8 @@
 
 * [第2018-09-19期 酷爽的管道操作符](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-19.md)
 
+* [第2018-09-20期 彻底弄懂timing-function](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-20.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
