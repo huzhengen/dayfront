@@ -42,6 +42,8 @@
 
 * [第2018-09-20期 彻底弄懂timing-function](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-20.md)
 
+* [第2018-09-21期 ECMAScript必须要了解的几个概念](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-21.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
