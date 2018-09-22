@@ -44,6 +44,8 @@
 
 * [第2018-09-21期 ECMAScript必须要了解的几个概念](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-21.md)
 
+* [第2018-09-22期 选择开源库的正确姿势](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-22.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
@@ -100,7 +102,7 @@
 
 * [第2018-08-28期 你会在网页上写数学公式吗？](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-28.md)
 
-* [第2018-08-29期 你真的了解data-*吗](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-29.md)
+* [第2018-08-29期 你真的了解data- * 吗](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-29.md)
 
 * [第2018-08-30期 有必要了解的AMP技术](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-30.md)
 
