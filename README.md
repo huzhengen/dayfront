@@ -46,6 +46,8 @@
 
 * [第2018-09-22期 选择开源库的正确姿势](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-22.md)
 
+* [第2018-09-23期 究竟哪些元素可以获取焦点](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-23.md)
+
 ### 2018年8月
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
