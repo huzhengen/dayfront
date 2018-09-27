@@ -2,6 +2,8 @@
 
 ### 2018年9月
 
+* [第2018-09-27期 contain优化渲染](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-27.md)
+
 * [第2018-09-26期 Shadow DOM听说过么](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-26.md)
 
 * [第2018-09-25期 基于Docker的部署](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-25.md)
