@@ -2,6 +2,8 @@
 
 ### 2018年9月
 
+* [第2018-09-29期 Map vs Array](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-29.md)
+
 * [第2018-09-28期 遍历新姿势for...of](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-28.md)
 
 * [第2018-09-27期 contain优化渲染](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-09-27.md)
