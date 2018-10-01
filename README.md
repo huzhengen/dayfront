@@ -2,7 +2,7 @@
 
 ### 2018年10月
 
-* [第2018-10-01期 玩转快速排序](https://github.com/huzhengen/dayfront/blob/master/2018-09/2018-10-01.md)
+* [第2018-10-01期 玩转快速排序](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-01.md)
 
 ### 2018年9月
 
