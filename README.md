@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-02期 图片新格式 WebP](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-02.md)
+
 * [第2018-10-01期 玩转快速排序](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-01.md)
 
 ### 2018年9月
