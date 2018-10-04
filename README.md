@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-04期 一行代码获取精确数据类型](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-04.md)
+
 * [第2018-10-03期 条件语句优化妙招](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-03.md)
 
 * [第2018-10-02期 图片新格式 WebP](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-02.md)
