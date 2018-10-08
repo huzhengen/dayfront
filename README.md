@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-08期 CSS 子元素能选择父元素吗？](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-08.md)
+
 * [第2018-10-07期 只知 DOM 不知 BOM？](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-07.md)
 
 * [第2018-10-06期 :nth-child 我劝你善良](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-06.md)
