@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-11期 for...in 请远离数组](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-11.md)
+
 * [第2018-10-10期 Web Components 初体验](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-10.md)
 
 * [第2018-10-09期 戏说 reduce](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-09.md)
