@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-14期 恍然大明白之 OPTIONS](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-14.md)
+
 * [第2018-10-12期 CommonJS 之模块定义](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-12.md)
 
 * [第2018-10-11期 for...in 请远离数组](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-11.md)
