@@ -2,7 +2,11 @@
 
 ### 2018年10月
 
+* [第2018-10-15期 变量充当对象 Key 从未如此简单](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-15.md)
+
 * [第2018-10-14期 恍然大明白之 OPTIONS](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-14.md)
+
+* [第2018-10-13期 万能的 reduce](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-13.md)
 
 * [第2018-10-12期 CommonJS 之模块定义](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-12.md)
 
