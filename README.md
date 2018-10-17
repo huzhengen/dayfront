@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-17期 你想跳出循环？](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-17.md)
+
 * [第2018-10-16期 分号避坑指南](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-16.md)
 
 * [第2018-10-15期 变量充当对象 Key 从未如此简单](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-15.md)
