@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-18期 promise 数组依次执行](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-18.md)
+
 * [第2018-10-17期 你想跳出循环？](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-17.md)
 
 * [第2018-10-16期 分号避坑指南](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-16.md)
