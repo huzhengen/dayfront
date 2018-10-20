@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-20期 ::before 没有生效？](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-20.md)
+
 * [第2018-10-19期 深入探讨 .npmignore](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-19.md)
 
 * [第2018-10-18期 promise 数组依次执行](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-18.md)
