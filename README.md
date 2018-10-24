@@ -2,6 +2,10 @@
 
 ### 2018年10月
 
+* [第2018-10-24期 JavaScript 原型链](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-24.md)
+
+* [第2018-10-23期 纯粹的空对象](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-23.md)
+
 * [第2018-10-22期 被忽略的 sticky](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-22.md)
 
 * [第2018-10-21期 柯里化](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-21.md)
