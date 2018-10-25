@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-25期 跑偏的 fixed](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-25.md)
+
 * [第2018-10-24期 JavaScript 原型链](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-24.md)
 
 * [第2018-10-23期 纯粹的空对象](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-23.md)
