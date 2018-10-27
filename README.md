@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-27期 轻松打造 Node CLI 工具](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-27.md)
+
 * [第2018-10-26期 CommonJS 循环引用之谜](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-26.md)
 
 * [第2018-10-25期 跑偏的 fixed](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-25.md)
