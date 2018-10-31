@@ -2,6 +2,8 @@
 
 ### 2018年10月
 
+* [第2018-10-31期 Web Storage 全掌握](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-31.md)
+
 * [第2018-10-30期 CSS 也能修改图片颜色？](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-30.md)
 
 * [第2018-10-29期 箭头函数用前须知](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-29.md)
