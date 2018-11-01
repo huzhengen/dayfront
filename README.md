@@ -1,5 +1,9 @@
 # 前端早8点dayfront
 
+### 2018年11月
+
+* [第2018-11-01期 localStorage 设置过期时间](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-01.md)
+
 ### 2018年10月
 
 * [第2018-10-31期 Web Storage 全掌握](https://github.com/huzhengen/dayfront/blob/master/2018-10/2018-10-31.md)
