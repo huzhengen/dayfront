@@ -2,6 +2,10 @@
 
 ### 2018年11月
 
+* [第2018-11-07期 无处不在的 Blob](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-07.md)
+
+* [第2018-11-06期 CSS 路径动画](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-06.md)
+
 * [第2018-11-05期 SVG 也许不需要 Base64](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-05.md)
 
 * [第2018-11-04期 Data URI 很有意思](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-04.md)
