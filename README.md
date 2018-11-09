@@ -2,6 +2,8 @@
 
 ### 2018年11月
 
+* [第2018-11-09期 fetch - 新时代的 Ajax](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-09.md)
+
 * [第2018-11-08期 初识 WebAssembly](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-08.md)
 
 * [第2018-11-07期 无处不在的 Blob](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-07.md)
