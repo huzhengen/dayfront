@@ -2,6 +2,10 @@
 
 ### 2018年11月
 
+* [第2018-11-11期 WebAssembly 初体验](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-11.md)
+
+* [第2018-11-10期 图片为什么旋转了？](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-10.md)
+
 * [第2018-11-09期 fetch - 新时代的 Ajax](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-09.md)
 
 * [第2018-11-08期 初识 WebAssembly](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-08.md)
