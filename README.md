@@ -2,6 +2,8 @@
 
 ### 2018年11月
 
+* [第2018-11-13期 超简单的 Web Worker](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-13.md)
+
 * [第2018-11-12期 console.log() 升级指南](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-12.md)
 
 * [第2018-11-11期 WebAssembly 初体验](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-11.md)
