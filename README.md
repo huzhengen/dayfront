@@ -2,6 +2,8 @@
 
 ### 2018年11月
 
+* [第2018-11-14期 类数组对象](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-14.md)
+
 * [第2018-11-13期 超简单的 Web Worker](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-13.md)
 
 * [第2018-11-12期 console.log() 升级指南](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-12.md)
