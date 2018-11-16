@@ -2,6 +2,8 @@
 
 ### 2018年11月
 
+* [第2018-11-16期 填充数组妙招](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-16.md)
+
 * [第2018-11-15期 多此一举的三元表达式](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-15.md)
 
 * [第2018-11-14期 类数组对象](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-14.md)
