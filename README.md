@@ -2,6 +2,8 @@
 
 ### 2018年11月
 
+* [第2018-11-19期 checkbox 美化再简单不过了](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-19.md)
+
 * [第2018-11-18期 属性简写有点酷](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-18.md)
 
 * [第2018-11-17期 CSS 实现点击事件？](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-17.md)
