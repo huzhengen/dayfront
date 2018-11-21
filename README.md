@@ -2,6 +2,8 @@
 
 ### 2018年11月
 
+* [第2018-11-21期 JWT 了解一下](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-21.md)
+
 * [第2018-11-20期 传值传址的本质](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-20.md)
 
 * [第2018-11-19期 checkbox 美化再简单不过了](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-19.md)
