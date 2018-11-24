@@ -2,6 +2,8 @@
 
 ### 2018年11月
 
+* [第2018-11-24期 彻底解决网页引入中文字体](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-24.md)
+
 * [第2018-11-23期 摸清 call、apply、bind](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-23.md)
 
 * [第2018-11-22期 准备好迎接 HTTP/2 了吗？](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-22.md)
