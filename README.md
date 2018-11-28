@@ -2,6 +2,8 @@
 
 ### 2018年11月
 
+* [第2018-11-28期 可枚举属性](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-28.md)
+
 * [第2018-11-27期 认识 preload](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-27.md)
 
 * [第2018-11-26期 图解 JIT](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-26.md)
