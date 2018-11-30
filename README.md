@@ -2,6 +2,8 @@
 
 ### 2018年11月
 
+* [第2018-11-30期 WebSocket 不等于 Socket.io](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-30.md)
+
 * [第2018-11-29期 可控的 CSS 动画](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-29.md)
 
 * [第2018-11-28期 可枚举属性](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-28.md)
