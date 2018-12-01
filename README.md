@@ -1,5 +1,9 @@
 # 前端早8点dayfront
 
+### 2018年12月
+
+* [第2018-12-01期 理解 Memoization](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-01.md)
+
 ### 2018年11月
 
 * [第2018-11-30期 WebSocket 不等于 Socket.io](https://github.com/huzhengen/dayfront/blob/master/2018-11/2018-11-30.md)
