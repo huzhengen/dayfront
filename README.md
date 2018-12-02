@@ -2,6 +2,8 @@
 
 ### 2018年12月
 
+* [第2018-12-02期 彻底搞懂 Event Loop](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-02.md)
+
 * [第2018-12-01期 理解 Memoization](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-01.md)
 
 ### 2018年11月
