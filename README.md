@@ -2,6 +2,8 @@
 
 ### 2018年12月
 
+* [第2018-12-07期 CSP 是干啥的？](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-07.md)
+
 * [第2018-12-06期 漫游 Reflect](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-06.md)
 
 * [第2018-12-05期 关于CSS环境变量](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-05.md)
