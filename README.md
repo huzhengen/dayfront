@@ -2,6 +2,8 @@
 
 ### 2018年12月
 
+* [第2018-12-12期 package-lock 到底做了什么？](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-12.md)
+
 * [第2018-12-11期 Grid 快速体验](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-11.md)
 
 * [第2018-12-10期 存在的价值是什么？](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-10.md)
