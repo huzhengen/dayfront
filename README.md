@@ -2,6 +2,10 @@
 
 ### 2018年12月
 
+* [第2018-12-17期 函数式编程之递归模式](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-17.md)
+
+* [第2018-12-16期 闭包啊闭包](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-16.md)
+
 * [第2018-12-15期 类型新成员 Symbol](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-15.md)
 
 * [第2018-12-14期 迭代器的本质](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-14.md)
