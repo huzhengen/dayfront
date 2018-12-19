@@ -2,6 +2,8 @@
 
 ### 2018年12月
 
+* [第2018-12-19期 如何成为一名全栈开发工程师](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-18.md)
+
 * [第2018-12-18期 坑坑洼洼的数学运算](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-18.md)
 
 * [第2018-12-17期 函数式编程之递归模式](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-17.md)
