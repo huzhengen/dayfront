@@ -1,5 +1,9 @@
 # 前端早8点dayfront
 
+### 2019年01月
+
+* [第2019-01-03期 display: inline-block间隙问题](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-03.md)
+
 ### 2018年12月
 
 * [第2018-12-19期 如何成为一名全栈开发工程师](https://github.com/huzhengen/dayfront/blob/master/2018-12/2018-12-19.md)
