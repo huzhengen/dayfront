@@ -300,10 +300,10 @@
 
 * 来源一 前端早8点
 
-* * [“前端早8点”小程序](https://www.awesomes.cn/dayfront)
+  * [“前端早8点”小程序](https://www.awesomes.cn/dayfront)
 
-* * [“前端早8点”网页版](https://zao.awesomes.cn/#/)
+  * [“前端早8点”网页版](https://zao.awesomes.cn/#/)
 
 * 来源二 前端开发技术日报
 
-* * [前端开发技术日报](https://github.com/kujian/frontendDaily)
+  * [前端开发技术日报](https://github.com/kujian/frontendDaily)
