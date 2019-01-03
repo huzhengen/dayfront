@@ -294,4 +294,16 @@
 
 * [第2018-08-02期 事与愿违的+](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-02.md)
 
-* [第2018-08-01期 “前端早8点”小程序](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-01.md)
+* [第2018-08-01期 博文来源](https://github.com/huzhengen/dayfront/blob/master/2018-08/2018-08-01.md)
+
+### 博文来源
+
+来源一 前端早8点
+
+[“前端早8点”小程序](https://www.awesomes.cn/dayfront)
+
+[“前端早8点”网页版](https://zao.awesomes.cn/#/)
+
+来源二 前端开发技术日报
+
+[前端开发技术日报](https://github.com/kujian/frontendDaily)
