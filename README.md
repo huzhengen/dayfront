@@ -2,6 +2,8 @@
 
 ### 2019年01月
 
+* [第2019-01-04期 原生 js 判断变量是一个数组](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-04.md)
+
 * [第2019-01-03期 display: inline-block间隙问题](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-03.md)
 
 ### 2018年12月
