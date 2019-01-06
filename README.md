@@ -2,6 +2,8 @@
 
 ### 2019年01月
 
+* [第2019-01-06期 最不全的数组去重方法](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-06.md)
+
 * [第2019-01-05期 JavaScript 遍历方法总结](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-05.md)
 
 * [第2019-01-04期 原生 js 判断变量是一个数组](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-04.md)
