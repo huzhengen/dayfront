@@ -2,6 +2,8 @@
 
 ### 2019年01月
 
+* [第2019-01-07期 为什么 [] == ![] 结果为 true，而 {} == !{} 结果为 false](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-07.md)
+
 * [第2019-01-06期 最不全的数组去重方法](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-06.md)
 
 * [第2019-01-05期 JavaScript 遍历方法总结](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-05.md)
