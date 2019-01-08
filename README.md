@@ -2,6 +2,8 @@
 
 ### 2019年01月
 
+* [第2019-01-08期 ES6的模块设计和CommonJS规范](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-08.md)
+
 * [第2019-01-07期 为什么 [] == ![] 结果为 true，而 {} == !{} 结果为 false](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-07.md)
 
 * [第2019-01-06期 最不全的数组去重方法](https://github.com/huzhengen/dayfront/blob/master/2019-01/2019-01-06.md)
