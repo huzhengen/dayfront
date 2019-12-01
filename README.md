@@ -1,5 +1,9 @@
 # 每日前端博文摘抄
 
+### 2019年12月
+
+* [第2019-12-01期 JavaScript 一些小技巧](https://github.com/huzhengen/dayfront/blob/master/2019-12/2019-12-01.md)
+
 ### 2019年11月
 
 * [第2019-11-30期 【译】为什么说学习JavaScript是个好主意的5个原因](https://github.com/huzhengen/dayfront/blob/master/2019-11/2019-11-30.md)
